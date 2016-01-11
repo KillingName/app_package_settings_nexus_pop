@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/lockfinger_finger_settings_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:persistent="false" android:key="start_enrollment_wizard" />
+    <CheckBoxPreference android:title="@string/lockfinger_toggle_unlock_finger_title" android:key="toggle_unlock_finger" android:summary="@string/lockfinger_toggle_unlock_finger_summary" />
+</PreferenceScreen>

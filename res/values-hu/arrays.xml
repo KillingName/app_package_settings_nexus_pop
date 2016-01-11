@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Amerika</item>
+        <item>Európa</item>
+        <item>Afrika</item>
+        <item>Ázsia</item>
+        <item>Ausztrália</item>
+        <item>Csendes-óceán</item>
+        <item>Összes</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>Nincsenek animációk</item>
+        <item>Egyes animációk</item>
+        <item>Minden animáció</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>Az ablakanimációk nem jelennek meg</item>
+        <item>Egyes ablakanimációk megjelenítése</item>
+        <item>Minden ablakanimáció megjelenítése</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 másodperc</item>
+        <item>30 másodperc</item>
+        <item>1 perc</item>
+        <item>2 perc</item>
+        <item>10 perc</item>
+        <item>30 perc</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Nagyon lassú</item>
+        <item>Lassú</item>
+        <item>Normál</item>
+        <item>Gyors</item>
+        <item>Nagyon gyors</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Nagyon alacsony</item>
+        <item>Alacsony</item>
+        <item>Normál</item>
+        <item>Magas</item>
+        <item>Nagyon magas</item>
+    </string-array>
+    <string-array name="tts_lang_entries">
+        <item>angol (amerikai)</item>
+        <item>angol (brit)</item>
+        <item>francia</item>
+        <item>német</item>
+        <item>olasz</item>
+        <item>spanyol</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Keresés...</item>
+        <item>Kapcsolódás…</item>
+        <item>Hitelesítés...</item>
+        <item>IP-cím lekérése...</item>
+        <item>Csatlakozva</item>
+        <item>Felfüggesztve</item>
+        <item>Kapcsolat bontása...</item>
+        <item>Nincs kapcsolat</item>
+        <item>Sikertelen</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Keresés...</item>
+        <item>Csatlakozás a(z) %1$s hálózathoz...</item>
+        <item>Hitelesítés a(z) %1$s hálózaton...</item>
+        <item>IP-cím lekérése a(z) %1$s hálózattól...</item>
+        <item>Kapcsolódva a(z) %1$s hálózathoz</item>
+        <item>Felfüggesztve</item>
+        <item>Kapcsolat bontása %1$s hálózattal...</item>
+        <item>Nincs kapcsolat</item>
+        <item>Sikertelen</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>Nyílt</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 perc</item>
+        <item>5 perc</item>
+        <item>1 óra</item>
+        <item>Végtelen</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Gyenge</item>
+        <item>Közepes</item>
+        <item>Jó</item>
+        <item>Kiváló</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Amikor a képernyő kikapcsol</item>
+        <item>Soha, ha töltőn van</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="battery_history_type_spinner">
+        <item>CPU használat</item>
+        <item>Hálózat használat</item>
+        <item>GPS használat</item>
+        <item>Szenzor használat</item>
+        <item>Részleges használat</item>
+        <item>Egyéb használat</item>
+    </string-array>
+    <string-array name="battery_history_which_spinner">
+        <item>Az USB kihúzása óta</item>
+        <item>A rendszer indításától</item>
+        <item>Összesen</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Használat ideje</item>
+        <item>Elindítások száma</item>
+        <item>Alkalmazás neve</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Nincs</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Ki</item>
+        <item>Riasztás</item>
+        <item>Rezgés</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Nincs</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP vagy CHAP</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Belső tárhely</item>
+        <item>Eltávolítható SD-kártya</item>
+        <item>Döntse el a rendszer</item>
+    </string-array>
+    <string-array name="vibrate_entries">
+        <item>Mindig</item>
+        <item>Soha</item>
+        <item>Csak Néma üzemmódban</item>
+        <item>Csak akkor, ha nem Néma üzemmódban van</item>
+    </string-array>
+    <string-array name="profile_entries">
+        <item>Be</item>
+        <item>Ki</item>
+        <item>Nincs felülbírálva</item>
+    </string-array>
+    <string-array name="profile_connection_entries">
+        <item>Kikapcsolva</item>
+        <item>Bekapcsolva</item>
+    </string-array>
+    <string-array name="backgroundWidget">
+        <item>Szürke</item>
+        <item>Átlátszó</item>
+    </string-array>
+    <string-array name="location_entries_gps_source">
+        <item>Beépített GPS</item>
+    </string-array>
+</resources>

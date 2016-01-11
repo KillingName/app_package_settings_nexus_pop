@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>тихоокеанско</item>
+        <item>Всички</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>Без анимации</item>
+        <item>Някои анимации</item>
+        <item>Всички анимации</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>Не се показват никакви анимации на прозорци</item>
+        <item>Показват се някои анимации на прозорци</item>
+        <item>Показват се всички анимации на прозорци</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 секунди</item>
+        <item>30 секунди</item>
+        <item>1 минута</item>
+        <item>2 минути</item>
+        <item>10 минути</item>
+        <item>30 минути</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Много бавна</item>
+        <item>Бавна</item>
+        <item>Нормална</item>
+        <item>Бърза</item>
+        <item>Много бърза</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Много нисък</item>
+        <item>Нисък</item>
+        <item>Нормален</item>
+        <item>Висок</item>
+        <item>Много висок</item>
+    </string-array>
+    <string-array name="tts_lang_entries">
+        <item>американски английски</item>
+        <item>британски английски</item>
+        <item>френски</item>
+        <item>немски</item>
+        <item>италиански</item>
+        <item>испански</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканира се...</item>
+        <item>Установява се връзка…</item>
+        <item>Удостоверява се...</item>
+        <item>Получава се IP адрес</item>
+        <item>Установена е връзка</item>
+        <item>Прекъсната</item>
+        <item>Изключва се...</item>
+        <item>Изкл.</item>
+        <item>Неуспешно</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканира се...</item>
+        <item>Установява се връзка с/ъс %1$s...</item>
+        <item>Удостоверява се с/ъс %1$s...</item>
+        <item>IP адресът от %1$s се получава...</item>
+        <item>Установена е връзка с/ъс%1$s</item>
+        <item>Прекъсната</item>
+        <item>Изключва се от %1$s...</item>
+        <item>Изкл.</item>
+        <item>Неуспешно</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>Отворена</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 минути</item>
+        <item>5 минути</item>
+        <item>1 час</item>
+        <item>Никога</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Слаб</item>
+        <item>Средна</item>
+        <item>Добро</item>
+        <item>Отлично</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Когато екрана се изключи</item>
+        <item>Никога при включено захранване</item>
+        <item>Никога</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Време на употреба</item>
+        <item>Брой стартирания</item>
+        <item>Име на приложение</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Няма</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Изкл.</item>
+        <item>Сигнал</item>
+        <item>Вибриране</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Без</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP или CHAP</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Вътрешно хранилище на устройство</item>
+        <item>SD карта, която може да се премахва</item>
+        <item>Нека системата да реши</item>
+    </string-array>
+    <string-array name="vibrate_entries">
+        <item>Винаги</item>
+        <item>Никога</item>
+        <item>Само в тих режим</item>
+        <item>Само извън тих режим</item>
+    </string-array>
+</resources>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Європа</item>
+        <item>Африка</item>
+        <item>Азія</item>
+        <item>Австралія</item>
+        <item>Тихоокеан.</item>
+        <item>Усі</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>Немає анімацій</item>
+        <item>Деякі анімації</item>
+        <item>Усі анімації</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>Не відображаються анімації вікон</item>
+        <item>Відображено деякі анімації вікон</item>
+        <item>Відображаюся всі анімації вікна</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 хвилина</item>
+        <item>2 хвилини</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>30 хвилин</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Дуже пов.</item>
+        <item>Повіл.</item>
+        <item>Звич.</item>
+        <item>Швидкий</item>
+        <item>Дуже швидко</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Дуже низька</item>
+        <item>Низька</item>
+        <item>Звичайна</item>
+        <item>Висока</item>
+        <item>Дуже висока</item>
+    </string-array>
+    <string-array name="tts_lang_entries">
+        <item>англійська (амер.)</item>
+        <item>англійська (брит.)</item>
+        <item>французька</item>
+        <item>німецька</item>
+        <item>італійська</item>
+        <item>іспанська</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканування...</item>
+        <item>Підключення…</item>
+        <item>Автентифікація…</item>
+        <item>Отримання ІР-адреси…</item>
+        <item>Підключено</item>
+        <item>Припинено</item>
+        <item>Відключення...</item>
+        <item>Роз’єднано</item>
+        <item>Помилка</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканування...</item>
+        <item>Підключення до %1$s…</item>
+        <item>Автентифікація з %1$s…</item>
+        <item>Отримання ІР-адреси від %1$s...</item>
+        <item>Підключено до %1$s</item>
+        <item>Призупинено</item>
+        <item>Відключення від %1$s…</item>
+        <item>Роз’єднано</item>
+        <item>Помилка</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>Відкрита</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 хвилини</item>
+        <item>5 хвилин</item>
+        <item>1 година</item>
+        <item>Ніколи</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Слабкий</item>
+        <item>Задов.</item>
+        <item>Хороший</item>
+        <item>Чудовий</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>При вимкненні екрана</item>
+        <item>Ніколи в підключ. стані</item>
+        <item>Ніколи</item>
+    </string-array>
+    <string-array name="battery_history_type_spinner">
+        <item>Використання ЦП</item>
+        <item>Використання мережі</item>
+        <item>Використання GPS</item>
+        <item>Використання датчика</item>
+        <item>Використання Partial wake</item>
+        <item>Інше</item>
+    </string-array>
+    <string-array name="battery_history_which_spinner">
+        <item>З останього вимкн. зовн. живл.</item>
+        <item>Усього, з моменту завантаження</item>
+        <item>Усього, за весь час</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Час використ.</item>
+        <item>К-сть запусків</item>
+        <item>Назва програми</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Немає</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Вимкнено</item>
+        <item>Сповіщення</item>
+        <item>Вібросигнал</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Немає</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP або CHAP</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>"Внутрішня пам'ять пристрою"</item>
+        <item>Знімна карта SD</item>
+        <item>Дозвольте виріш. системі</item>
+    </string-array>
+    <string-array name="vibrate_entries">
+        <item>Завжди</item>
+        <item>Ніколи</item>
+        <item>Лише в беззвуч. режимі</item>
+        <item>Лише не в беззвучному режимі</item>
+    </string-array>
+    <string-array name="profile_entries">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+        <item>Не заміщати</item>
+    </string-array>
+    <string-array name="backgroundWidget">
+        <item>Сірий</item>
+        <item>Прозорий</item>
+    </string-array>
+</resources>

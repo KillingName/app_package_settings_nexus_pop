@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>אמריקה</item>
+        <item>אירופה</item>
+        <item>אפריקה</item>
+        <item>אסיה</item>
+        <item>אוסטרליה</item>
+        <item>פסיפי</item>
+        <item>הכל</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>ללא הנפשות</item>
+        <item>חלק מההנפשות</item>
+        <item>כל ההנפשות</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>לא מוצגות הנפשות חלון</item>
+        <item>חלק מהנפשות החלון מוצגות</item>
+        <item>כל הנפשות החלון מוצגות</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 שניות</item>
+        <item>30 שניות</item>
+        <item>דקה אחת</item>
+        <item>2 דקות</item>
+        <item>10 דקות</item>
+        <item>30 דקות</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>איטי מאוד</item>
+        <item>לאט</item>
+        <item>רגיל</item>
+        <item>מהיר</item>
+        <item>מהיר מאוד</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>נמוך מאוד</item>
+        <item>נמוך</item>
+        <item>רגיל</item>
+        <item>גבוה</item>
+        <item>גבוה מאוד</item>
+    </string-array>
+    <string-array name="tts_lang_entries">
+        <item>אנגלית אמריקאית</item>
+        <item>אנגלית בריטית</item>
+        <item>צרפתית</item>
+        <item>גרמנית</item>
+        <item>איטלקית</item>
+        <item>ספרדית</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>סורק...</item>
+        <item>מתחבר…</item>
+        <item>מאמת…</item>
+        <item>משיג כתובת IP…</item>
+        <item>מחובר</item>
+        <item>מושהה</item>
+        <item>מנתק...</item>
+        <item>מנותק</item>
+        <item>נכשל</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>סורק...</item>
+        <item>מתחבר אל %1$s...</item>
+        <item>מאמת עם %1$s…</item>
+        <item>משיג כתובת IP מ-%1$s…</item>
+        <item>מחובר אל %1$s</item>
+        <item>מושהה</item>
+        <item>מתנתק מ-%1$s…</item>
+        <item>מנותק</item>
+        <item>נכשל</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>פתח</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>‎802.1x EAP</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 דקות</item>
+        <item>5 דקות</item>
+        <item>שעה אחת</item>
+        <item>לעולם לא</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>נמוכה</item>
+        <item>סביר</item>
+        <item>טוב</item>
+        <item>מצוין</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>כאשר המסך כבוי</item>
+        <item>לעולם לא כאשר מחובר</item>
+        <item>אף פעם</item>
+    </string-array>
+    <string-array name="battery_history_type_spinner">
+        <item>ניצול מעבד</item>
+        <item>ניצול רשת</item>
+        <item>ניצול GPS</item>
+        <item>ניצול חיישנים</item>
+        <item>שימוש חלקי בהתעוררות</item>
+        <item>שימושים אחרים</item>
+    </string-array>
+    <string-array name="battery_history_which_spinner">
+        <item>מאז ניתוק אחרון</item>
+        <item>סך הכל מאז אתחול</item>
+        <item>סך הכל כולל</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>זמן השימוש</item>
+        <item>הפעל ספירה</item>
+        <item>שם היישום</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>ללא</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>כבוי</item>
+        <item>התראה</item>
+        <item>רטט</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>ללא</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP או CHAP</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>אחסון פנימי במכשיר</item>
+        <item>כרטיס SD נשלף</item>
+        <item>תן למערכת להחליט</item>
+    </string-array>
+    <string-array name="vibrate_entries">
+        <item>תמיד</item>
+        <item>אף פעם</item>
+        <item>"במצב 'שקט' בלבד"</item>
+        <item>"רק כאשר אינו במצב 'שקט'"</item>
+    </string-array>
+    <string-array name="brightnessWidget">
+        <item>אוטומטי/מעומעם/40%/100%</item>
+        <item>אוטומטי/מעומעם/25%1$/75%2$/100%</item>
+        <item>אוטומטי/25%/100%</item>
+        <item>מעומעם/100%</item>
+    </string-array>
+    <string-array name="networkModesWidget">
+        <item>2G/3G בלבד</item>
+        <item>2G/3G בלבד/3G+2G</item>
+    </string-array>
+    <string-array name="ringModeWidget">
+        <item>צליל+רטט/רטט</item>
+        <item>צליל/רטט</item>
+        <item>צליל/שקט</item>
+        <item>צליל+רטט/רטט/שקט</item>
+        <item>צליל/רטט/שקט</item>
+    </string-array>
+    <string-array name="backgroundWidget">
+        <item>אפור</item>
+        <item>שקיפות</item>
+    </string-array>
+</resources>

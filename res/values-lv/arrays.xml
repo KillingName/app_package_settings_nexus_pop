@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Amerika</item>
+        <item>Eiropa</item>
+        <item>Āfrika</item>
+        <item>Āzija</item>
+        <item>Austrālija</item>
+        <item>Klusais okeāns</item>
+        <item>Visus</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>Bez animācijām</item>
+        <item>Dažas animācijas</item>
+        <item>Visas animācijas</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>Nav redzamas loga animācijas</item>
+        <item>Ir redzamas dažas loga animācijas</item>
+        <item>IR redzamas visas loga animācijas</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 sekundes</item>
+        <item>30 sekundes</item>
+        <item>1 minūte</item>
+        <item>2 minūtes</item>
+        <item>10 minūtes</item>
+        <item>30 minūtes</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Ļoti lēni</item>
+        <item>Lēni</item>
+        <item>Normāls</item>
+        <item>Ātri</item>
+        <item>Ļoti ātri</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Ļoti zems</item>
+        <item>Zema</item>
+        <item>Normāls</item>
+        <item>Augsta</item>
+        <item>Ļoti augsts</item>
+    </string-array>
+    <string-array name="tts_lang_entries">
+        <item>Amerikāņu angļu valoda</item>
+        <item>Britu angļu valoda</item>
+        <item>franču</item>
+        <item>vācu</item>
+        <item>itāliešu</item>
+        <item>spāņu</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Notiek skenēšana...</item>
+        <item>Notiek savienojuma izveide…</item>
+        <item>Notiek autentificēšana...</item>
+        <item>Notiek IP adreses iegūšana…</item>
+        <item>Izveidots savienojums</item>
+        <item>Atlikts</item>
+        <item>Notiek atvienošana...</item>
+        <item>Atvienots</item>
+        <item>Neizdevās</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Notiek skenēšana...</item>
+        <item>Notiek savienojuma izveide ar %1$s…</item>
+        <item>Notiek autentificēšana ar %1$s…</item>
+        <item>Notiek IP adreses iegūšana no %1$s…</item>
+        <item>Savienots ar %1$s</item>
+        <item>Atlikts</item>
+        <item>Notiek atvienošana no %1$s…</item>
+        <item>Atvienots</item>
+        <item>Neizdevās</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>Atvērt</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 minūtes</item>
+        <item>5 minūtes</item>
+        <item>1 stunda</item>
+        <item>Nekad</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Vājš</item>
+        <item>Labs</item>
+        <item>Labi</item>
+        <item>Teicami</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Kad ekrāns izslēdzas</item>
+        <item>Nekad, ja ir pievienots</item>
+        <item>Nekad</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Lietojuma laiks</item>
+        <item>Uzsākšanas reižu skaits</item>
+        <item>Lietojumprogrammas nosaukums</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Nav</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Izslēgts</item>
+        <item>Brīdinājums</item>
+        <item>Vibrē</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Nav</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP vai CHAP</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Iekšējā ierīces krātuve</item>
+        <item>Izņemama SD karte</item>
+        <item>Ļaut sistēmai izlemt</item>
+    </string-array>
+    <string-array name="vibrate_entries">
+        <item>Vienmēr</item>
+        <item>Nekad</item>
+        <item>Tikai klusuma režīmā</item>
+        <item>Tikai, kad nav aktīvs Klusuma režīms</item>
+    </string-array>
+</resources>
